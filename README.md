@@ -13,4 +13,4 @@ https://arxiv.org/abs/1809.07109
 
 ## Instructions
 
-1. Run 'InfoSSM_Dubins.ipynb'
+Run 'InfoSSM_Dubins.ipynb' to test the code.
