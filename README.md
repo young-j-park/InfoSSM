@@ -2,7 +2,11 @@
 
 The paper is accepted to AIAA Science and Technology Forum and Exposition 2019.
 
-https://arxiv.org/abs/1809.07109
+- https://arxiv.org/abs/1809.07109
+- https://arc.aiaa.org/doi/10.2514/6.2019-0681
+
+Further details are described in the journal version (full version):
+- https://arc.aiaa.org/doi/abs/10.2514/1.I010891?journalCode=jais
 
 ## Requirements
 
